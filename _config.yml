@@ -1,3 +1,4 @@
 # name: Math + TCS blog
 description: A blog to document results and techniques in math and TCS that I learn.
 theme: jekyll-theme-tactile
+baseurl: /mathtcsblog
