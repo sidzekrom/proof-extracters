@@ -1,4 +1,4 @@
-# name: Math + TCS blog
-description: A blog to document results and techniques in math and TCS that I learn.
+# name: Proof Extractors
+description: A blog to extract the key essence and insights from the strata of very technical and hard-to-read papers.
 theme: jekyll-theme-tactile
-baseurl: /mathtcsblog
+baseurl: /proof-extractors
