@@ -1,4 +1,3 @@
 # name: Proof Extractors
 description: A blog to extract the key essence and insights from the strata of very technical and hard-to-read papers.
-theme: jekyll-theme-minimal
 baseurl: /proof-extractors
