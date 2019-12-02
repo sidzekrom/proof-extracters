@@ -1,1 +1,1 @@
-# Unrestricted Isometry
+# Math + TCS blog
